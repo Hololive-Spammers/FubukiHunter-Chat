@@ -1,16 +1,8 @@
 {
-	"availables": [
-		{
-			"name": "test1",
-			"ref": "test1"
-		},
-		{
-			"name": "test2",
-			"ref": "test2"
-		},
-		{
-			"name": "test3",
-			"ref": "test3"
-		}
-	]
+  "availables": [
+    {
+      "name": "20210718",
+      "ref": "20210718"
+    }
+  ]
 }
